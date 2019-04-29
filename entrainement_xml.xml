@@ -1,0 +1,11 @@
+<fichier id="1">
+	<groupe id="1" couleur="rouge">
+		<membre id="1" qualite="etudiant" />
+		<membre id="2" qualite="salarie"/>
+	</groupe>
+	<groupe id="2" couleur="bleue">
+		<membre id="1" qualite="salarie"/>
+		<membre id="2" qualite="etudiant"/>
+	</groupe>
+</fichier>
+
