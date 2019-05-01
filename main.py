@@ -50,3 +50,6 @@ dic = json.loads(json_file)
 #%% dataframe
 import pandas as pd
 df = pd.DataFrame.from_dict(dic,orient='index').rename_axis(['Game'])
+
+print("commmit")
+
